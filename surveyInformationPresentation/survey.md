@@ -1,3 +1,5 @@
+The following questions were asked in the survey.
+
 # Question 1
 ![grafik](https://github.com/judithmichael/AssistiveSystems/assets/65944615/484dd3fd-1024-40fa-b972-81cb98d6df57)
 
