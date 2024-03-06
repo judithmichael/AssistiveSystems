@@ -10,3 +10,4 @@ This repository includes the following additional material for the survey:
 * [Demographic information](https://github.com/judithmichael/AssistiveSystems/blob/main/surveyInformationPresentation/Demographics.md) about the participants
 * The survey participant answers to [Text Presentation](https://github.com/judithmichael/AssistiveSystems/blob/main/surveyInformationPresentation/TextPresentationAnswers.md) questions
 
+Please note, that the survey was originally in German. The translation of questions and answers in English is added for better understanding.
