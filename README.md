@@ -1,4 +1,4 @@
-# AssistiveSystems
+# Assistive Systems
 
 This github project provides additional material for our work on model-driven engineering of assistive systems. 
 
